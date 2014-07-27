@@ -1,0 +1,2 @@
+// Get /appointments/1
+{ "appointment": { "title": "Ms. Kitty Hairball Treatment", "cankelled": false, "identifier": 1 }

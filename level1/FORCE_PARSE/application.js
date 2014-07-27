@@ -1,0 +1,1 @@
+var appointment = new Appointment(data, {parse: true});
